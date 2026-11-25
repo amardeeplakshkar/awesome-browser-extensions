@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/amardeeplakshkar/awesome-browser-extensions/pulls)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/entries-22-orange.svg)]()
+[![Entries](https://img.shields.io/badge/entries-23-orange.svg)]()
 
 
 > Browser extensions that are actually useful. Curated, simple, and free to use - one line per entry.
@@ -45,7 +45,8 @@
 | [Evernote Web Clipper](https://evernote.com/) | Clip pages to Evernote |
 | [Loom](https://www.loom.com/) | Record and share quick videos |
 | [Session Buddy](https://sessionbuddy.com/) | Save and restore tab sessions |
-| [SuperFocus](https://getsuperfocus.com/) | Screen time tracker, site blocker and distraction hider, free forever |
+| [SuperFocus](https://getsuperfocus.com/) | Screen time tracker, site blocker and distraction hider, free forever | 
+| [Practical Data](https://practicaldata.dev/) | Free open-source Chrome extension that shades web tables so better values stand out, works without a key |
 
 
 ## Developers and YouTube
